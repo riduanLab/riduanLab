@@ -38,7 +38,6 @@ I build scalable, high-performance web applications and AI-integrated solutions 
 
 ### 📬 Connect & Work With Me
 
-* **Email:** [apnar-email@example.com](mailto:apnar-email@example.com)
-* **Portfolio / Marketplace:** [Upwork Profile / Portfolio Link](https://your-link.com)
-
+* **Email:** haqueriduanul101@gmail.com)
+* **Portfolio / Marketplace:** https://riduanul-haque.netlify.app
 🚀 *Open for freelance opportunities and contract work!*
