@@ -39,5 +39,5 @@ I build scalable, high-performance web applications and AI-integrated solutions 
 ### 📬 Connect & Work With Me
 
 * **Email:** haqueriduanul101@gmail.com)
-* **Portfolio / Marketplace:** https://riduanul-haque.netlify.app
+* **Portfolio / Marketplace:** https://riduanulhaque.netlify.app
 🚀 *Open for freelance opportunities and contract work!*
